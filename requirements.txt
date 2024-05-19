@@ -17,3 +17,4 @@ snowflake._legacy
 snowflake.core
 streamlit 
 validators
+ollama
