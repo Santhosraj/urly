@@ -15,4 +15,5 @@ snowflake-connector-python
 snowflake-snowpark-python
 snowflake._legacy
 snowflake.core
+streamlit 
 
