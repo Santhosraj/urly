@@ -10,7 +10,6 @@ pandas
 pandas-datareader
 pip-requirements-parser
 pip-tools
-sentence-transformer
 sentencepiec
 setuptools-rust
 snowflake
