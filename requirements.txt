@@ -1,4 +1,4 @@
-chroma-hnswlib
+vchroma-hnswlib
 chromadb
 langchain
 langchain-community
@@ -16,4 +16,5 @@ snowflake-snowpark-python
 snowflake._legacy
 snowflake.core
 streamlit 
-
+validators
+ollama
