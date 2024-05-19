@@ -27,7 +27,7 @@ def url_process(urls, question):
             doc_splitter = text_splitter.split_documents(doc_list)
 
             vector_store = Chroma.from_documents(doc_splitter, collection_name="rag",
-                                                 embedding=OllamaEmbeddings(model="mxbai-embed-large"))
+                                                 embedding=OllamaEmbeddings(model="snowflake-arctic-embed"))
             retriever = vector_store.as_retriever()
 
     if retriever == "":
