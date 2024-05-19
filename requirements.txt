@@ -1,4 +1,4 @@
-vchroma-hnswlib
+chroma-hnswlib
 chromadb
 langchain
 langchain-community
